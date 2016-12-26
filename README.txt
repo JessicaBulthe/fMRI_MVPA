@@ -1,0 +1,1 @@
+Open do_analysis.m, dat is het "hoofdscript". 
